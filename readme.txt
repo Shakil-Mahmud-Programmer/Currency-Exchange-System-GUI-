@@ -1,0 +1,3 @@
+first run the __init__.py file it will run the setup.py file and all the required library
+will be installed.If you want you cal instal them manually but in that case you dont need 
+run __init__.py file. gui.py is main file run it and the program will be run successfully Insha Allah...
